@@ -1,0 +1,8 @@
+{
+  "name": "yellow-halls",
+  "version": "1.0.0",
+  "description": "A 3D horror game with co-op rooms",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
